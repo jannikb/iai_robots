@@ -1,0 +1,3 @@
+<launch>
+  <param name="robot_description" textfile="$(find iai_test_camera)/urdf/test_camera.urdf" />
+</launch>

@@ -1,0 +1,17 @@
+<package>
+  <name>iai_test_camera</name>
+  <version>0.0.0</version>
+  <description>
+    test pkg
+  </description>
+
+  <maintainer email="jannikbu@cs.uni-bremen.de">Jannik Buckelo</maintainer>
+
+  <author email="jannikbu@cs.uni-bremen.de">Jannik Buckelo</author>
+
+  <license>GPLv3+</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!--run_depend>pr2_description</run_depend-->
+</package>
